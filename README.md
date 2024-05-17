@@ -75,8 +75,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Rohitha-pudu/Rohitha-pudu/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
