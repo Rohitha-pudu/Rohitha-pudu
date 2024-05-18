@@ -66,11 +66,13 @@
   
 
   ### Design Tools:
-  
+  ![Framer](https://img.shields.io/badge/Framer-%23404d59.svg?style=flat&logo=framer&logoColor=white) 
   <img src="https://skillicons.dev/icons?i=xd" height="30" alt="xd logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"   />
   <img width="12" />
+  
+  
  
 </div>
 
